@@ -67,7 +67,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture, which promotes
 ## Demo
 Here’s a walkthrough of the app in action:
 
-[![Watch the Video](https://github.com/kodeflap/DESKNOT/blob/master/app/src/main/ic_launcher-playstore.png)](https://github.com/kodeflap/DESKNOT/raw/master/VID_20241030095815.mp4)
+![Demo GIF](https://github.com/kodeflap/DESKNOT/raw/master/VID_20241030095815%20(2).gif)
 
 ---
 
